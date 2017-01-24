@@ -1,0 +1,24 @@
+{
+  "name": "chatroom",
+  "version": "1.0.0",
+  "description": "texting application",
+  "main": "ws.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piano-man/ChatRoom.git"
+  },
+  "keywords": [
+    "websocket"
+  ],
+  "author": "gaganjeet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piano-man/ChatRoom/issues"
+  },
+  "homepage": "https://github.com/piano-man/ChatRoom#readme"
+}
